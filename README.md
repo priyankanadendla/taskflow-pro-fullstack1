@@ -2,23 +2,23 @@
 
 A modern task management web application built with **React, Vite, Java, and Spring Boot**. TaskFlow Pro helps users organize tasks, manage priorities, track progress, and improve productivity through a clean dashboard.
 
-## 🚀 Live Demo
+##  Live Demo
 
 **Frontend:** https://taskflow-pro-sandy-eta.vercel.app/
 
 **Backend API:** https://taskflow-backend-wllt.onrender.com/api/tasks
 
-## ✨ Features
+##  Features
 
-- 📋 Create and manage tasks
-- ✅ Mark tasks as completed
-- 🎯 Organize tasks by category and priority
-- 📊 Track task progress through a dashboard
-- 🔄 Connect frontend and backend using REST APIs
-- 📱 Responsive user interface
-- ⚡ Fast frontend development with Vite
+-  Create and manage tasks
+-  Mark tasks as completed
+-  Organize tasks by category and priority
+-  Track task progress through a dashboard
+-  Connect frontend and backend using REST APIs
+-  Responsive user interface
+-  Fast frontend development with Vite
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - React.js
@@ -40,7 +40,7 @@ A modern task management web application built with **React, Vite, Java, and Spr
 - Render — Backend deployment
 - VS Code
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 taskflow-pro-fullstack/
@@ -56,7 +56,7 @@ taskflow-pro-fullstack/
 └── README.md
 ```
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -106,17 +106,17 @@ GET http://localhost:8080/api/tasks
 
 For local development, configure the frontend API URL to point to your local backend.
 
-## 🌐 Deployment
+##  Deployment
 
 - **Frontend:** Deployed on Vercel
 - **Backend:** Deployed on Render
 - **API Communication:** REST API
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of TaskFlow Pro is to demonstrate full-stack web development skills, including responsive frontend development, REST API integration, backend development with Spring Boot, database integration, version control, and deployment.
 
-## 👩‍💻 Author
+##  Author
 
 **Priyanka Nadendla**
 
@@ -126,5 +126,5 @@ GitHub: [@priyankanadendla](https://github.com/priyankanadendla)
 
 ---
 
-⭐ If you find this project interesting, consider giving the repository a star!# taskflow-pro-fullstack
+If you find this project interesting, consider giving the repository a star!# taskflow-pro-fullstack
 
